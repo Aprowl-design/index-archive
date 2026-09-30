@@ -85,3 +85,26 @@ GitHub 仓库交付源码与资源，不提交 `node_modules/`、`dist/`、环�
 ## 版本保护
 
 Final 是独立目录。V1 Figma 插件/首页预览与 V2 源码、旧插件均保留；旧版本内容已进行哈希比对。此轮未改写 Figma 文件，Figma V1 仍作为设计过程档案保留。最终 ZIP 包含源码、数据、图片、Credits、构建、说明与测试记录，不包含 node_modules。
+
+## GitHub Pages 与 Vercel 并行部署
+
+默认 `npm run build` 保持根路径 `/` 和 BrowserRouter，供现有 Vercel 部署使用。GitHub Pages 工作流单独执行 `npm run build -- --mode github-pages`，设置 Vite base 为 `/index-archive/` 并启用 HashRouter。视觉、数据和本地存储键不变，不需要新增密码或 Token。
+
+- 站点首页：https://Aprowl-design.github.io/index-archive/
+- 详情链接示例：https://Aprowl-design.github.io/index-archive/#/project/making-egypt
+- Hash 路由使子页面刷新仍请求站点根目录，避免 GitHub Pages 的 SPA 路由 404；不要手写不带 `#` 的子页面地址。
+- 图片、字体、脚本和 favicon 使用构建目标对应的 base；Vercel 仍使用原地址。
+- GitHub 仓库 → **Settings → Pages → Build and deployment → Source → GitHub Actions**。
+- 之后每次 push 到 main 自动部署；也可在 **Actions → Deploy INDEX to GitHub Pages → Run workflow → main** 手动运行。若首次运行发生在 Pages 启用之前，启用后重跑工作流。
+- Pages 与 Vercel 是不同站点来源，各自 localStorage 独立，不会迁移或删除现有 Vercel 收藏。
+
+本地检查 Pages 构建：
+
+```sh
+npm run build -- --mode github-pages
+npm run preview -- --mode github-pages --port 4176
+```
+
+打开 http://127.0.0.1:4176/index-archive/ 。切回默认构建时重新运行 `npm run build`。
+
+部署回归测试：Pages 构建后执行 `node tests/pages-deployment.cjs`。测试使用没有 SPA 回退的静态服务器，验证子路径资源、页面刷新、搜索锚点、收藏持久化和分类导航。浏览器依赖沿用项目现有 Playwright/Edge 配置。
