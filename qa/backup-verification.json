@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-01",
+  "V2": {
+    "verifiedFiles": 88,
+    "changes": [],
+    "backup": "work/final/INDEX-V2-before-final.zip"
+  },
+  "V1": {
+    "verifiedFiles": 24,
+    "changes": [],
+    "backup": "work/V1-Archive-2026-09-30/outputs"
+  },
+  "finalIsSeparateCopy": true
+}

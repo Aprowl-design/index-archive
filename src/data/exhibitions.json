@@ -1,0 +1,951 @@
+[
+  {
+    "id": "01",
+    "slug": "full-disclosure",
+    "title": "Full Disclosure: The Edge of Information Design",
+    "titleZh": "信息设计的边界",
+    "institution": "MoMA",
+    "city": "New York",
+    "country": "United States",
+    "year": "2026–2027",
+    "dateStart": "2026-09-27",
+    "dateEnd": "2027-06-13",
+    "status": "ongoing",
+    "tags": [
+      "GRAPHIC",
+      "TYPOGRAPHY",
+      "DATA",
+      "INFORMATION DESIGN"
+    ],
+    "summaryZh": "信息如何成为我们理解世界的方式？展览聚焦当代信息设计，将原始数据转化为视觉叙事，揭示隐藏的系统、权力与历史。",
+    "summaryEn": "",
+    "curators": [
+      "Paola Antonelli",
+      "Jules Bernstein",
+      "Forrest Pelsue"
+    ],
+    "designers": [],
+    "sections": [
+      {
+        "type": "graphic",
+        "title": "让信息被看见",
+        "body": "数字与模拟项目共同探讨信息的呈现方式，以及我们如何判断来源与可信度。"
+      }
+    ],
+    "officialSource": "https://www.moma.org/calendar/exhibitions/5926",
+    "imageCredits": [
+      "Kate Crawford, Vladan Joler. Calculating Empires. 2023. Digital Image. The Museum of Modern Art, New York. Gift of the Committee on Architecture and Design Funds and Ryan Zurrer. © Kate Crawford and Vladan Joler"
+    ],
+    "images": [
+      {
+        "id": "full-disclosure-01",
+        "src": "/images/full-disclosure-01.jpg",
+        "credit": "Kate Crawford, Vladan Joler. Calculating Empires. 2023. Digital Image. The Museum of Modern Art, New York. Gift of the Committee on Architecture and Design Funds and Ryan Zurrer. © Kate Crawford and Vladan Joler",
+        "altZh": "《Calculating Empires》信息图局部",
+        "sourcePage": "https://www.moma.org/calendar/exhibitions/5926",
+        "originalUrl": "https://www.moma.org/d/assets/W1siZiIsIjIwMjYvMDcvMjQvM3dpY2UyMG55N19DRV9Dcm9wX01PTUFfQklHLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4NjY3XiAtZ3Jhdml0eSBOb3J0aCAtY3JvcCAyMDAweDY2NyswKzgwIl1d/CE-Crop-MOMA-BIG.jpg?sha=7c11cdd923e60414"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [
+      "information",
+      "信息",
+      "信息设计",
+      "数据"
+    ],
+    "sources": [
+      "https://www.moma.org/calendar/exhibitions/5926",
+      "https://press.moma.org/exhibition/fulldisclosure/"
+    ],
+    "inspirationIds": [
+      "full-disclosure-01",
+      "full-disclosure-press-2",
+      "full-disclosure-press-6",
+      "full-disclosure-press-9",
+      "full-disclosure-press-11",
+      "full-disclosure-press-13"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "02",
+    "slug": "nakagin",
+    "title": "The Many Lives of the Nakagin Capsule Tower",
+    "titleZh": "中银胶囊塔的多重生命",
+    "institution": "MoMA",
+    "city": "New York",
+    "country": "United States",
+    "year": "2025–2026",
+    "dateStart": "2025-07-10",
+    "dateEnd": "2026-07-12",
+    "status": "ended",
+    "tags": [
+      "SPACE",
+      "ARCHITECTURE",
+      "INSTALLATION",
+      "ARCHIVE"
+    ],
+    "summaryZh": "从东京银座到纽约：黑川纪章设计的中银胶囊塔以模块化单元回应不断变化的城市生活。展览围绕修复后的 A1305 胶囊，重新理解建筑的使用与再生。",
+    "summaryEn": "",
+    "curators": [
+      "Evangelos Kotsioris",
+      "Paula Vilaplana de Miguel"
+    ],
+    "designers": [],
+    "sections": [
+      {
+        "type": "space",
+        "title": "一座建筑，一个单元",
+        "body": "1972 年落成的建筑由 140 个胶囊组成。展览将顶层的 A1305 单元带入美术馆，让观众近距离理解紧凑的居住空间。"
+      },
+      {
+        "type": "installation",
+        "title": "从城市进入美术馆",
+        "body": "胶囊曾容纳住宅、办公室与工作室。修复后的单元成为展览核心，也延续了建筑在拆除之后的生命。"
+      }
+    ],
+    "officialSource": "https://www.moma.org/calendar/exhibitions/5830",
+    "imageCredits": [
+      "Night time at the Nakagin Capsule Tower, with Mr. Takayuki Sekine seen through the window of capsule B1004, 2016. © Jeremie Souteyrat"
+    ],
+    "images": [
+      {
+        "id": "nakagin-01",
+        "src": "/images/nakagin-01.jpg",
+        "credit": "Night time at the Nakagin Capsule Tower, with Mr. Takayuki Sekine seen through the window of capsule B1004, 2016. © Jeremie Souteyrat",
+        "altZh": "夜间的中银胶囊塔与亮起的窗户",
+        "sourcePage": "https://www.moma.org/calendar/exhibitions/5830",
+        "originalUrl": "https://www.moma.org/d/assets/W1siZiIsIjIwMjUvMDUvMDgvNDV5OGVnOW05bV9OYWthZ2luXzAxX0pQRUcuanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHg2NjdeIC1ncmF2aXR5IE5vcnRoIC1jcm9wIDIwMDB4NjY3KzArODAiXV0/Nakagin_01_JPEG.jpg?sha=3ff4725cecbb1845"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [
+      "metal",
+      "金属",
+      "钢",
+      "steel",
+      "胶囊"
+    ],
+    "sources": [
+      "https://www.moma.org/calendar/exhibitions/5830",
+      "https://press.moma.org/exhibition/nakagin/"
+    ],
+    "inspirationIds": [
+      "nakagin-01",
+      "nakagin-press-3",
+      "nakagin-press-6",
+      "nakagin-press-7",
+      "nakagin-press-11",
+      "nakagin-press-15"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "03",
+    "slug": "pirouette",
+    "title": "Pirouette: Turning Points in Design",
+    "titleZh": "设计的转折点",
+    "institution": "MoMA",
+    "city": "New York",
+    "country": "United States",
+    "year": "2025",
+    "dateStart": "2025-01-26",
+    "dateEnd": "2025-11-15",
+    "status": "ended",
+    "tags": [
+      "OBJECT",
+      "GRAPHIC",
+      "DESIGN HISTORY"
+    ],
+    "summaryZh": "从日常物件到图形符号，展览追踪那些改变行为与文化的设计转折点。看似熟悉的物品，记录着技术、身份与社会观念的变化。",
+    "summaryEn": "",
+    "curators": [
+      "Paola Antonelli",
+      "Maya Ellerkmann"
+    ],
+    "designers": [],
+    "sections": [
+      {
+        "type": "graphic",
+        "title": "日常生活中的视觉符号",
+        "body": "I ♥ NY、Accessible Icon 与 Emoji 等项目，将图形带入公共生活与日常沟通。"
+      }
+    ],
+    "officialSource": "https://www.moma.org/calendar/exhibitions/5756",
+    "imageCredits": [
+      "Shigetaka Kurita. Emoji. 1998-1999. The Museum of Modern Art, New York. © 2024 NTT DOCOMO"
+    ],
+    "images": [
+      {
+        "id": "pirouette-01",
+        "src": "/images/pirouette-01.jpg",
+        "credit": "Shigetaka Kurita. Emoji. 1998-1999. The Museum of Modern Art, New York. © 2024 NTT DOCOMO",
+        "altZh": "栗田穰崇设计的像素 Emoji 图形",
+        "sourcePage": "https://www.moma.org/calendar/exhibitions/5756",
+        "originalUrl": "https://www.moma.org/d/assets/W1siZiIsIjIwMjQvMTIvMTYvN2RtdnRuOTVmM19UUjE1NDE1X0t1cml0YS5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDY2N14gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDIwMDB4NjY3KzArMCJdXQ/TR15415_Kurita.jpg?sha=5e1c11b88d7d688d"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://www.moma.org/calendar/exhibitions/5756"
+    ],
+    "inspirationIds": [
+      "pirouette-01",
+      "pirouette-postit",
+      "pirouette-i-love-ny",
+      "pirouette-accessible-icon",
+      "pirouette-macintosh"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "04",
+    "slug": "making-egypt",
+    "title": "Making Egypt",
+    "titleZh": "创造埃及",
+    "institution": "Young V&A",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2025",
+    "dateStart": "2025-02-15",
+    "dateEnd": "2025-11-02",
+    "status": "ended",
+    "tags": [
+      "SPACE",
+      "MATERIAL",
+      "GRAPHIC",
+      "EXHIBITION DESIGN"
+    ],
+    "summaryZh": "从古埃及的创造力出发，展览连接古代工艺与今天的制作实践。空间、图形和材料共同叙述故事，让年轻观众通过观察与动手探索设计。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "space",
+        "title": "沿着尼罗河想象",
+        "body": "入口空间以尼罗河与芦苇为线索。树枝构成的遮篷呼应古埃及的遮阳结构，展览以空间变化组织参观体验。"
+      },
+      {
+        "type": "material",
+        "title": "材料也是叙事",
+        "body": "黏土与稻草制成的未烧制材料被用于展示构件。展柜得到再利用，材料选择将制作过程带入展览本身。"
+      },
+      {
+        "type": "graphic",
+        "title": "古代线索，当代表达",
+        "body": "展厅的字体与图形从古埃及视觉文化获得线索；“制作”区域借鉴阿玛尔纳的考古布局，组织内容与活动。"
+      }
+    ],
+    "officialSource": "https://www.vam.ac.uk/exhibitions/making-egypt",
+    "imageCredits": [
+      "Atum welcoming visitors. Photo: Gareth Gardner",
+      "Photos from the entrance and first section of Making Egypt. © Gareth Gardner",
+      "Left and centre: Making earth plinths at 121 Collective’s Kingston workshop, from sifting to ramming. Photo: Sharon Lam Right: The final plinths © Victoria and Albert Museum. Photo: Peter Kelleher",
+      "The ‘writing’ pattern, by John Philip-Sage",
+      "Photos: Gareth Gardner"
+    ],
+    "images": [
+      {
+        "id": "making-egypt-01",
+        "src": "/images/making-egypt-01.jpg",
+        "credit": "Atum welcoming visitors. Photo: Gareth Gardner",
+        "altZh": "展墙上的埃及风格人物图形与文字",
+        "sourcePage": "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-secrets-of-the-exhibitions-design",
+        "originalUrl": "https://www.vam.ac.uk/blog/wp-content/uploads/GG-1081502-740x494.jpg"
+      },
+      {
+        "id": "making-egypt-04",
+        "src": "/images/making-egypt-04.jpg",
+        "credit": "Photos from the entrance and first section of Making Egypt. © Gareth Gardner",
+        "altZh": "Making Egypt 入口与芦苇材料装饰",
+        "sourcePage": "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-secrets-of-the-exhibitions-design",
+        "originalUrl": "https://www.vam.ac.uk/blog/wp-content/uploads/SL_Merged_1-1-740x334.jpg"
+      },
+      {
+        "id": "making-egypt-05",
+        "src": "/images/making-egypt-05.jpg",
+        "credit": "Left and centre: Making earth plinths at 121 Collective’s Kingston workshop, from sifting to ramming. Photo: Sharon Lam Right: The final plinths © Victoria and Albert Museum. Photo: Peter Kelleher",
+        "altZh": "夯土展示台的制作过程与成品",
+        "sourcePage": "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-secrets-of-the-exhibitions-design",
+        "originalUrl": "https://www.vam.ac.uk/blog/wp-content/uploads/SL_Merged_9-740x333.jpg"
+      },
+      {
+        "id": "making-egypt-02",
+        "src": "/images/making-egypt-02.jpg",
+        "credit": "The ‘writing’ pattern, by John Philip-Sage",
+        "altZh": "蓝绿色与橙色组成的几何书写图案",
+        "sourcePage": "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-secrets-of-the-exhibitions-design",
+        "originalUrl": "https://www.vam.ac.uk/blog/wp-content/uploads/textile-4_100-1.jpg"
+      },
+      {
+        "id": "making-egypt-03",
+        "src": "/images/making-egypt-03.jpg",
+        "credit": "Photos: Gareth Gardner",
+        "altZh": "Making Egypt 展厅与展示台的拼接照片",
+        "sourcePage": "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-secrets-of-the-exhibitions-design",
+        "originalUrl": "https://www.vam.ac.uk/blog/wp-content/uploads/SL_Merged_12-740x633.jpg"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://www.vam.ac.uk/exhibitions/making-egypt",
+      "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-secrets-of-the-exhibitions-design",
+      "https://www.vam.ac.uk/blog/museum-life/young-vas-making-egypt-exhibition-materials-as-storytellers"
+    ],
+    "inspirationIds": [
+      "making-egypt-01",
+      "making-egypt-02",
+      "making-egypt-03",
+      "making-egypt-04",
+      "making-egypt-05"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "05",
+    "slug": "design-and-disability",
+    "title": "Design and Disability",
+    "titleZh": "设计与残障",
+    "institution": "V&A South Kensington",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2025–2026",
+    "dateStart": "2025-06-07",
+    "dateEnd": "2026-02-15",
+    "status": "ended",
+    "tags": [
+      "GRAPHIC",
+      "ACCESSIBILITY",
+      "OBJECT",
+      "SPACE"
+    ],
+    "summaryZh": "展览呈现残障、聋人及神经多样性群体对设计的贡献。从可见性到工具与生活，设计既关乎表达，也关乎参与世界的方式。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "space",
+        "title": "从进入展厅开始",
+        "body": "入口提供休息空间、触觉地图与多种访问资源。无障碍设计成为观展体验的一部分。"
+      },
+      {
+        "type": "graphic",
+        "title": "可见性与表达",
+        "body": "海报和独立出版物呈现身份、倡议与文化表达。展览同时提供大字版、简明英语等阅读资源。"
+      }
+    ],
+    "officialSource": "https://www.vam.ac.uk/exhibitions/design-and-disability",
+    "imageCredits": [
+      "Design and Disability. © Victoria and Albert Museum, London",
+      "Design and Disability. © Victoria and Albert Museum, London",
+      "Design and Disability. © Victoria and Albert Museum, London",
+      "Do You Want Us Here or Not by Finnegan Shannon. © Victoria and Albert Museum, London",
+      "Design and Disability. © Victoria and Albert Museum, London"
+    ],
+    "images": [
+      {
+        "id": "design-and-disability-01",
+        "src": "/images/design-and-disability-01.jpg",
+        "credit": "Design and Disability. © Victoria and Albert Museum, London",
+        "altZh": "蓝色展墙上的服饰、海报与展览展示台",
+        "sourcePage": "https://www.vam.ac.uk/articles/design-and-disability-exhibition-guide",
+        "originalUrl": "https://vanda-production-assets.s3.amazonaws.com/2025/06/06/12/36/36/098782e5-cf4e-4969-a926-885b88906616/b.jpg"
+      },
+      {
+        "id": "design-and-disability-02",
+        "src": "/images/design-and-disability-02.jpg",
+        "credit": "Design and Disability. © Victoria and Albert Museum, London",
+        "altZh": "蓝色展厅中的服饰陈列与影像",
+        "sourcePage": "https://www.vam.ac.uk/articles/design-and-disability-exhibition-guide",
+        "originalUrl": "https://vanda-production-assets.s3.amazonaws.com/2025/06/06/12/37/27/17366cfb-9683-460e-9b18-12cd579c7b7e/c.jpg"
+      },
+      {
+        "id": "design-and-disability-03",
+        "src": "/images/design-and-disability-03.jpg",
+        "credit": "Design and Disability. © Victoria and Albert Museum, London",
+        "altZh": "绿色展厅中的展柜与影像屏幕",
+        "sourcePage": "https://www.vam.ac.uk/articles/design-and-disability-exhibition-guide",
+        "originalUrl": "https://vanda-production-assets.s3.amazonaws.com/2025/06/06/12/40/29/803c8ac1-5cbf-40bd-9beb-4ed553a5ac00/g.jpg"
+      },
+      {
+        "id": "design-and-disability-04",
+        "src": "/images/design-and-disability-04.jpg",
+        "credit": "Do You Want Us Here or Not by Finnegan Shannon. © Victoria and Albert Museum, London",
+        "altZh": "写有白色文字的蓝色长椅",
+        "sourcePage": "https://www.vam.ac.uk/articles/design-and-disability-exhibition-guide",
+        "originalUrl": "https://vanda-production-assets.s3.amazonaws.com/2025/06/06/12/35/06/8a7c59f6-1da2-453d-8057-8133167b4b09/chair.jpg"
+      },
+      {
+        "id": "design-and-disability-05",
+        "src": "/images/design-and-disability-05.jpg",
+        "credit": "Design and Disability. © Victoria and Albert Museum, London",
+        "altZh": "围绕圆桌的影像与绿色展墙",
+        "sourcePage": "https://www.vam.ac.uk/articles/design-and-disability-exhibition-guide",
+        "originalUrl": "https://vanda-production-assets.s3.amazonaws.com/2025/06/06/12/40/49/e107b56b-9f79-47ae-abaf-960fc11a652c/h.jpg"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://www.vam.ac.uk/exhibitions/design-and-disability",
+      "https://www.vam.ac.uk/articles/design-and-disability-exhibition-guide"
+    ],
+    "inspirationIds": [
+      "design-and-disability-01",
+      "design-and-disability-02",
+      "design-and-disability-03",
+      "design-and-disability-04",
+      "design-and-disability-05"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "06",
+    "slug": "more-than-human",
+    "title": "More than Human",
+    "titleZh": "不止于人类",
+    "institution": "Design Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2025",
+    "dateStart": "2025-07-11",
+    "dateEnd": "2025-10-05",
+    "status": "ended",
+    "tags": [
+      "MATERIAL",
+      "INSTALLATION",
+      "ECOLOGY",
+      "SPACE"
+    ],
+    "summaryZh": "当设计的对象不再只有人类，我们如何与其他物种共同生活？展览通过艺术、建筑与设计实践，探索更广阔的生态关系。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "material",
+        "title": "以海藻重新想象材料",
+        "body": "Julia Lohmann 的沉浸式海藻装置将生物材料引入展场，邀请观众思考设计与自然的关系。"
+      },
+      {
+        "type": "installation",
+        "title": "为其他生命设计",
+        "body": "Alexandra Daisy Ginsberg 的作品关注传粉者。不同作品从物种、土地与水域出发，扩展设计的关注范围。"
+      }
+    ],
+    "officialSource": "https://designmuseum.org/exhibitions/more-than-human",
+    "imageCredits": [
+      "Alusta Pavilion by Suomi/Koivisto Architects. Exhibition photography: Luke Hayes",
+      "Kelp Council by Julia Lohmann. Exhibition photography: Luke Hayes",
+      "Exhibition photography: Luke Hayes",
+      "Alexandra Daisy Ginsberg's Pollinator Pathmaker: Perceptual Field 7SzzLn6GnY97DSo7hCSLMf. Exhibition photography: Luke Hayes",
+      "Video still, Forest Mind by Ursula Biemann and video installation. Exhibition photography: Luke Hayes"
+    ],
+    "images": [
+      {
+        "id": "more-than-human-01",
+        "src": "/images/more-than-human-01.jpg",
+        "credit": "Alusta Pavilion by Suomi/Koivisto Architects. Exhibition photography: Luke Hayes",
+        "altZh": "红褐色砖砌展亭与展览空间",
+        "sourcePage": "https://designmuseum.org/exhibitions/more-than-human",
+        "originalUrl": "https://designmuseum.org/image/6c431f53-45ae-4765-8c2a-145c5f274125?width=980&height=606"
+      },
+      {
+        "id": "more-than-human-02",
+        "src": "/images/more-than-human-02.jpg",
+        "credit": "Kelp Council by Julia Lohmann. Exhibition photography: Luke Hayes",
+        "altZh": "展厅中的悬挂海藻造型装置",
+        "sourcePage": "https://designmuseum.org/exhibitions/more-than-human",
+        "originalUrl": "https://designmuseum.org/image/1b895316-3d77-41c6-bedc-1360f91adc20?width=980&height=606"
+      },
+      {
+        "id": "more-than-human-03",
+        "src": "/images/more-than-human-03.jpg",
+        "credit": "Exhibition photography: Luke Hayes",
+        "altZh": "展台上的有机形态作品",
+        "sourcePage": "https://designmuseum.org/exhibitions/more-than-human",
+        "originalUrl": "https://designmuseum.org/image/b144a5fd-8de4-4b5e-9c26-60da58058c03?width=980&height=606"
+      },
+      {
+        "id": "more-than-human-04",
+        "src": "/images/more-than-human-04.jpg",
+        "credit": "Alexandra Daisy Ginsberg's Pollinator Pathmaker: Perceptual Field 7SzzLn6GnY97DSo7hCSLMf. Exhibition photography: Luke Hayes",
+        "altZh": "覆盖整面墙的彩色植物图像",
+        "sourcePage": "https://designmuseum.org/exhibitions/more-than-human",
+        "originalUrl": "https://designmuseum.org/image/747a7e23-bc20-4161-b0bc-d47ae8b422c3?width=980&height=606"
+      },
+      {
+        "id": "more-than-human-05",
+        "src": "/images/more-than-human-05.jpg",
+        "credit": "Video still, Forest Mind by Ursula Biemann and video installation. Exhibition photography: Luke Hayes",
+        "altZh": "暗色空间中的森林影像装置",
+        "sourcePage": "https://designmuseum.org/exhibitions/more-than-human",
+        "originalUrl": "https://designmuseum.org/image/3ce5c60a-0020-44b6-bba3-abb736196e3f?width=980&height=606"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://designmuseum.org/exhibitions/more-than-human"
+    ],
+    "inspirationIds": [
+      "more-than-human-01",
+      "more-than-human-02",
+      "more-than-human-03",
+      "more-than-human-04",
+      "more-than-human-05",
+      "more-than-human-ref-7"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "07",
+    "slug": "making-home",
+    "title": "Making Home — Smithsonian Design Triennial",
+    "titleZh": "家的生成",
+    "institution": "Cooper Hewitt, Smithsonian Design Museum",
+    "city": "New York",
+    "country": "United States",
+    "year": "2024–2025",
+    "dateStart": "2024-11-02",
+    "dateEnd": "2025-08-10",
+    "status": "ended",
+    "tags": [
+      "SPACE",
+      "INSTALLATION",
+      "SOCIAL DESIGN",
+      "ARCHITECTURE"
+    ],
+    "summaryZh": "“家”既是物理空间，也是情感与归属。展览通过 25 组场域特定的委托装置，探索美国、其领土及部落民族中不同的居住经验。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "space",
+        "title": "在宅邸中理解家",
+        "body": "展览置于 Andrew 与 Louise Carnegie 的旧宅之中，以回家、寻家与造家三个主题展开。"
+      },
+      {
+        "type": "installation",
+        "title": "让经验成为空间",
+        "body": "委托装置把有关家庭、共同体和归属的经验转化为可进入的空间。"
+      }
+    ],
+    "officialSource": "https://exhibitions.cooperhewitt.org/making-home/",
+    "imageCredits": [
+      "Cooper Hewitt, Smithsonian Design Museum. Photographer not specified on source page."
+    ],
+    "images": [
+      {
+        "id": "making-home-01",
+        "src": "/images/making-home-01.jpg",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum. Photographer not specified on source page.",
+        "altZh": "Game Room 装置中的彩色毡制家具与墙面图表",
+        "sourcePage": "https://www.cooperhewitt.org/making-home-access/floor-1/4/",
+        "originalUrl": "https://www.cooperhewitt.org/wp-content/uploads/2024/11/MakingHome_Lee_20241101-scaled-e1730492657838.jpg"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://exhibitions.cooperhewitt.org/making-home/"
+    ],
+    "inspirationIds": [
+      "making-home-01",
+      "home-patterns",
+      "home-halau",
+      "home-adobe",
+      "home-library"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "08",
+    "slug": "nigo",
+    "title": "NIGO: From Japan with Love",
+    "titleZh": "来自日本的爱",
+    "institution": "Design Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2026",
+    "dateStart": "2026-05-01",
+    "dateEnd": "2026-10-04",
+    "status": "ongoing",
+    "tags": [
+      "FASHION",
+      "OBJECT",
+      "SPACE",
+      "CULTURE"
+    ],
+    "summaryZh": "从街头文化到手工陶艺，展览回顾 NIGO 的创意世界。个人收藏、设计实践与空间重现，构成一条跨越时尚和文化的观看路径。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "space",
+        "title": "走进创作者的世界",
+        "body": "展览重现 NIGO 青少年时期的卧室，并呈现等身尺度的玻璃茶室，将个人经验转化为展场叙事。"
+      }
+    ],
+    "officialSource": "https://designmuseum.org/exhibitions/nigo-from-japan-with-love",
+    "imageCredits": [
+      "Exhibition overview. Photo Luke Hayes",
+      "Exhibition overview. Photo Luke Hayes"
+    ],
+    "images": [
+      {
+        "id": "nigo-01",
+        "src": "/images/nigo-01.jpg",
+        "credit": "Exhibition overview. Photo Luke Hayes",
+        "altZh": "沿展厅两侧排列的服饰与展示柜",
+        "sourcePage": "https://designmuseum.org/exhibitions/nigo-from-japan-with-love",
+        "originalUrl": "https://designmuseum.org/image/ff828538-a70a-4231-862f-72fd9adb9088?width=980&height=606"
+      },
+      {
+        "id": "nigo-extra-8",
+        "src": "/images/nigo-extra-8.jpg",
+        "credit": "Exhibition overview. Photo Luke Hayes",
+        "altZh": "Exhibition overview",
+        "sourcePage": "https://designmuseum.org/exhibitions/nigo-from-japan-with-love",
+        "originalUrl": "https://designmuseum.org/image/7f69dc32-bf61-41e9-a315-b93a543e4da5?width=980&height=606"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://designmuseum.org/exhibitions/nigo-from-japan-with-love"
+    ],
+    "inspirationIds": [
+      "nigo-01",
+      "nigo-extra-8",
+      "nigo-ref-0",
+      "nigo-ref-7"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "09",
+    "slug": "es-devlin",
+    "title": "Es Devlin: Other Worlds",
+    "titleZh": "另一个世界",
+    "institution": "Design Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2026–2027",
+    "dateStart": "2026-10-02",
+    "dateEnd": "2027-04-04",
+    "status": "upcoming",
+    "tags": [
+      "LIGHT",
+      "INSTALLATION",
+      "SPACE",
+      "STAGE DESIGN"
+    ],
+    "summaryZh": "艺术家与设计师 Es Devlin 的创作跨越雕塑、舞台、音乐、语言与光。展览通过作品、影像和档案，呈现她三十年的创作实践。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "space",
+        "title": "工作室作为入口",
+        "body": "展览与艺术家密切合作设计，细致重现她的伦敦工作室，其中包含书籍、物件与模型。"
+      },
+      {
+        "type": "lighting",
+        "title": "光与语言的空间",
+        "body": "官方预告展示 Library of Light 等作品图像。这些参考记录艺术家的既有实践，并非全部为本次展览现场。"
+      }
+    ],
+    "officialSource": "https://designmuseum.org/exhibitions/es-devlin-other-worlds",
+    "imageCredits": [
+      "‘Library of Light’ by Es Devlin, Milan. Photo: Es Devlin",
+      "Model of Come Home Again by Es Devlin. Photo: Richard Round-Turner for the Design Museum",
+      "‘Forest of Us’ at Superblue Miami 2021. Photo: Es Devlin",
+      "‘Egg’ by Es Devlin in New York, 2017. Photo: Nikolas Koenig"
+    ],
+    "images": [
+      {
+        "id": "es-devlin-extra-9",
+        "src": "/images/es-devlin-extra-9.jpg",
+        "credit": "‘Library of Light’ by Es Devlin, Milan. Photo: Es Devlin",
+        "altZh": "‘Library of Light’ by Es Devlin, Milan",
+        "sourcePage": "https://designmuseum.org/exhibitions/es-devlin",
+        "originalUrl": "https://designmuseum.org/image/0d475fe3-eb44-4fba-a565-d7d628261183?width=980&height=606"
+      },
+      {
+        "id": "es-devlin-02",
+        "src": "/images/es-devlin-02.jpg",
+        "credit": "Model of Come Home Again by Es Devlin. Photo: Richard Round-Turner for the Design Museum",
+        "altZh": "Come Home Again 装置的模型",
+        "sourcePage": "https://designmuseum.org/exhibitions/es-devlin",
+        "originalUrl": "https://designmuseum.org/image/37796f2c-7579-4549-ae65-85375149efb6?width=980&height=606"
+      },
+      {
+        "id": "es-devlin-extra-4",
+        "src": "/images/es-devlin-extra-4.jpg",
+        "credit": "‘Forest of Us’ at Superblue Miami 2021. Photo: Es Devlin",
+        "altZh": "‘Forest of Us’ at Superblue Miami 2021",
+        "sourcePage": "https://designmuseum.org/exhibitions/es-devlin",
+        "originalUrl": "https://designmuseum.org/image/69fe2735-f676-4d42-a55e-52edd49bfddd?width=980&height=606"
+      },
+      {
+        "id": "es-devlin-extra-8",
+        "src": "/images/es-devlin-extra-8.jpg",
+        "credit": "‘Egg’ by Es Devlin in New York, 2017. Photo: Nikolas Koenig",
+        "altZh": "‘Egg’ by Es Devlin in New York, 2017",
+        "sourcePage": "https://designmuseum.org/exhibitions/es-devlin",
+        "originalUrl": "https://designmuseum.org/image/7d52a710-daf2-4bbb-a7e6-1f4e4ed1bb4e?width=980&height=606"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [
+      "lighting",
+      "灯光",
+      "光",
+      "舞台"
+    ],
+    "sources": [
+      "https://designmuseum.org/exhibitions/es-devlin-other-worlds"
+    ],
+    "inspirationIds": [
+      "es-devlin-02",
+      "es-devlin-extra-4",
+      "es-devlin-extra-8",
+      "es-devlin-extra-9",
+      "es-devlin-ref-3",
+      "es-devlin-ref-5"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "10",
+    "slug": "simone-brewster",
+    "title": "PLATFORM: Simone Brewster",
+    "titleZh": "物件、身体与尺度",
+    "institution": "Design Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2026–2027",
+    "dateStart": "2026-02-13",
+    "dateEnd": null,
+    "status": "ongoing",
+    "tags": [
+      "MATERIAL",
+      "OBJECT",
+      "SCULPTURE"
+    ],
+    "summaryZh": "Simone Brewster 在建筑感与雕塑感之间探索物件。材料、身体和非洲离散经验成为理解作品的线索。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "material",
+        "title": "木材中的形体",
+        "body": "Negrita 长凳与相关凳子使用染黑的鹅掌楸木。展览以不同尺度的作品呈现材料与情感之间的联系。"
+      }
+    ],
+    "officialSource": "https://designmuseum.org/exhibitions/platform-simone-brewster",
+    "imageCredits": [
+      "PLATFORM: Simone Brewster display. Photo: Charles Emerson",
+      "PLATFORM: Simone Brewster display. Photo: Charles Emerson",
+      "PLATFORM: Simone Brewster display. Photo: Charles Emerson"
+    ],
+    "images": [
+      {
+        "id": "simone-brewster-01",
+        "src": "/images/simone-brewster-01.jpg",
+        "credit": "PLATFORM: Simone Brewster display. Photo: Charles Emerson",
+        "altZh": "simone brewster：官方展览参考图",
+        "sourcePage": "https://designmuseum.org/exhibitions/platform-simone-brewster",
+        "originalUrl": "https://designmuseum.org/image/6616b6bb-86c8-4369-bac5-7288aee67ce9?width=980&height=606"
+      },
+      {
+        "id": "simone-brewster-02",
+        "src": "/images/simone-brewster-02.jpg",
+        "credit": "PLATFORM: Simone Brewster display. Photo: Charles Emerson",
+        "altZh": "simone brewster：官方展览参考图",
+        "sourcePage": "https://designmuseum.org/exhibitions/platform-simone-brewster",
+        "originalUrl": "https://designmuseum.org/image/2e73c4a8-f8e3-415a-af09-6a75947c2628?width=980&height=606"
+      },
+      {
+        "id": "simone-brewster-extra-6",
+        "src": "/images/simone-brewster-extra-6.jpg",
+        "credit": "PLATFORM: Simone Brewster display. Photo: Charles Emerson",
+        "altZh": "PLATFORM: Simone Brewster display",
+        "sourcePage": "https://designmuseum.org/exhibitions/platform-simone-brewster",
+        "originalUrl": "https://designmuseum.org/image/1ab22a37-1dae-4ae3-87ea-d4e897b7385f?width=980&height=606"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "dateEndLabel": "2027年1月",
+    "sources": [
+      "https://designmuseum.org/exhibitions/platform-simone-brewster"
+    ],
+    "inspirationIds": [
+      "simone-brewster-01",
+      "simone-brewster-02",
+      "simone-brewster-extra-6",
+      "simone-brewster-ref-2",
+      "simone-brewster-ref-5",
+      "simone-brewster-ref-8"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "11",
+    "slug": "wes-anderson",
+    "title": "Wes Anderson: The Archives",
+    "titleZh": "韦斯·安德森的档案",
+    "institution": "Design Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2025–2026",
+    "dateStart": "2025-11-21",
+    "dateEnd": "2026-08-16",
+    "status": "ended",
+    "tags": [
+      "GRAPHIC",
+      "OBJECT",
+      "ARCHIVE",
+      "FILM DESIGN"
+    ],
+    "summaryZh": "从早期实验到近期电影，展览打开韦斯·安德森积累多年的个人档案，呈现银幕世界背后的设计与协作。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "graphic",
+        "title": "银幕之外的设计",
+        "body": "展览与法国电影资料馆合作，追踪电影的创作过程与长期合作伙伴，重新观看影像背后的设计故事。"
+      }
+    ],
+    "officialSource": "https://designmuseum.org/exhibitions/wes-anderson-the-archives",
+    "imageCredits": [
+      "Model of THE GRAND BUDAPEST HOTEL © Luke Hayes for the Design Museum",
+      "Vending machines, ASTEROID CITY. Wes Anderson at the Design Museum © Matt Alexander/PA Media Assignments",
+      "Wes Anderson: The Archives © Luke Hayes for the Design Museum"
+    ],
+    "images": [
+      {
+        "id": "wes-anderson-02",
+        "src": "/images/wes-anderson-02.jpg",
+        "credit": "Model of THE GRAND BUDAPEST HOTEL © Luke Hayes for the Design Museum",
+        "altZh": "布达佩斯大饭店建筑模型",
+        "sourcePage": "https://designmuseum.org/exhibitions/wes-anderson-the-archives",
+        "originalUrl": "https://designmuseum.org/image/5f1c1e09-fc47-4866-bc45-354a8c65c058?width=980&height=606"
+      },
+      {
+        "id": "wes-anderson-extra-2",
+        "src": "/images/wes-anderson-extra-2.jpg",
+        "credit": "Vending machines, ASTEROID CITY. Wes Anderson at the Design Museum © Matt Alexander/PA Media Assignments",
+        "altZh": "Vending machines, ASTEROID CITY. Wes Anderson at the Design Museum © Matt Alexander/PA Media Assignments",
+        "sourcePage": "https://designmuseum.org/exhibitions/wes-anderson-the-archives",
+        "originalUrl": "https://designmuseum.org/image/f0c05c87-29f5-4292-8e5e-1743a17d235f?width=980&height=606"
+      },
+      {
+        "id": "wes-anderson-extra-4",
+        "src": "/images/wes-anderson-extra-4.jpg",
+        "credit": "Wes Anderson: The Archives © Luke Hayes for the Design Museum",
+        "altZh": "Wes Anderson: The Archives © Luke Hayes for the Design Museum",
+        "sourcePage": "https://designmuseum.org/exhibitions/wes-anderson-the-archives",
+        "originalUrl": "https://designmuseum.org/image/4a2f3fe0-6e71-44fe-b1ec-e950ff2d0510?width=980&height=606"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [],
+    "sources": [
+      "https://designmuseum.org/exhibitions/wes-anderson-the-archives"
+    ],
+    "inspirationIds": [
+      "wes-anderson-02",
+      "wes-anderson-extra-2",
+      "wes-anderson-extra-4",
+      "wes-anderson-ref-7",
+      "wes-anderson-ref-8",
+      "wes-anderson-ref-10"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  },
+  {
+    "id": "12",
+    "slug": "tools-for-transition",
+    "title": "Future Observatory: Tools for Transition",
+    "titleZh": "转型的工具",
+    "institution": "Design Museum",
+    "city": "London",
+    "country": "United Kingdom",
+    "year": "2025–2026",
+    "dateStart": "2025-09-12",
+    "dateEnd": "2026-09-20",
+    "status": "ended",
+    "tags": [
+      "INFORMATION",
+      "RESEARCH",
+      "GRAPHIC",
+      "SOCIAL DESIGN"
+    ],
+    "summaryZh": "四组来自英国的研究项目，将设计研究转化为住房、医疗、地方规划与资源管理的实际工具，回应绿色转型。",
+    "summaryEn": "",
+    "curators": [],
+    "designers": [],
+    "sections": [
+      {
+        "type": "graphic",
+        "title": "让研究变得可理解",
+        "body": "受委托的设计师将研究转化为插画、数字叙事、模型与挂毯，让不同地区的经验进入公共讨论。"
+      }
+    ],
+    "officialSource": "https://designmuseum.org/exhibitions/future-observatory-tools-for-transition",
+    "imageCredits": [
+      "Display overview: Design HOPES section. Photos Luke Hayes",
+      "Display overview: Design HOPES section"
+    ],
+    "images": [
+      {
+        "id": "tools-for-transition-01",
+        "src": "/images/tools-for-transition-01.jpg",
+        "credit": "Display overview: Design HOPES section. Photos Luke Hayes",
+        "altZh": "Tools for Transition 展板与材料展示",
+        "sourcePage": "https://designmuseum.org/exhibitions/future-observatory-tools-for-transition",
+        "originalUrl": "https://designmuseum.org/image/36a10c11-9fd5-4742-83fd-10fd6dd0af96?width=980&height=606"
+      },
+      {
+        "id": "tools-for-transition-02",
+        "src": "/images/tools-for-transition-02.jpg",
+        "credit": "Display overview: Design HOPES section",
+        "altZh": "Tools for Transition 展板与材料展示",
+        "sourcePage": "https://designmuseum.org/exhibitions/future-observatory-tools-for-transition",
+        "originalUrl": "https://designmuseum.org/image/f10340f5-73f0-4007-82b2-2785ef0fe7a9?width=980&height=606"
+      }
+    ],
+    "verifiedAt": "2026-09-30",
+    "searchAliases": [
+      "information",
+      "信息",
+      "信息设计",
+      "数据"
+    ],
+    "sources": [
+      "https://designmuseum.org/exhibitions/future-observatory-tools-for-transition"
+    ],
+    "inspirationIds": [
+      "tools-for-transition-01",
+      "tools-for-transition-02",
+      "tools-for-transition-ref-2",
+      "tools-for-transition-ref-6",
+      "tools-for-transition-ref-7",
+      "tools-for-transition-ref-9"
+    ],
+    "statusDisplayPolicy": "show only on verifiedAt date; otherwise suppress live status"
+  }
+]

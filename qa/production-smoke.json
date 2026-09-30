@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-01",
+  "routes": [
+    "/",
+    "/archive?discipline=LIGHT",
+    "/project/making-egypt",
+    "/boards",
+    "/about"
+  ],
+  "searchLight": {
+    "exhibitions": 9,
+    "inspirations": 13
+  },
+  "errors": [],
+  "httpFailures": [],
+  "passed": true
+}

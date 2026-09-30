@@ -1,0 +1,40 @@
+{
+  "product": "INDEX 索引",
+  "version": "1.0.0",
+  "date": "2026-10-01",
+  "exhibitions": 12,
+  "inspirations": 66,
+  "lightSearch": {
+    "exhibitions": 9,
+    "inspirations": 13
+  },
+  "install": "passed",
+  "dev": "passed",
+  "typecheck": "passed",
+  "unitTests": {
+    "passed": 3,
+    "failed": 0
+  },
+  "browserTests": {
+    "passed": 9,
+    "failed": 0
+  },
+  "widths": [
+    1440,
+    1280,
+    1024,
+    768,
+    390
+  ],
+  "build": "passed",
+  "productionSmoke": "qa/production-smoke.json",
+  "accessibility": "qa/accessibility-audit.json",
+  "backup": "qa/backup-verification.json",
+  "limitations": [
+    "local-only persistence",
+    "image publication rights require confirmation",
+    "Edge/Chromium only tested",
+    "static verified dataset",
+    "JSON export without import"
+  ]
+}

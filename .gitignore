@@ -1,0 +1,44 @@
+# Dependencies and production output
+node_modules/
+dist/
+build/
+
+# Environment files and local credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+credentials.json
+secrets.json
+
+# Tool caches and generated test output
+.vite/
+.cache/
+.parcel-cache/
+.eslintcache
+*.tsbuildinfo
+coverage/
+test-results/
+playwright-report/
+blob-report/
+qa/browser-results.json
+
+# Logs, temporary files and local editor state
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+tmp/
+temp/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

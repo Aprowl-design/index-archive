@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "inherits": "INDEX V2",
+  "color": {
+    "paper": "#F3F2EE",
+    "ink": "#111111",
+    "muted": "#777777",
+    "rule": "#D8D7D2",
+    "accent": "#485CFF",
+    "accessibleMuted": "#666666",
+    "accentText": "#4458F5"
+  },
+  "grid": {
+    "desktop": 1440,
+    "content": 1320,
+    "margin": 60,
+    "columns": 12,
+    "gap": 20
+  },
+  "font": {
+    "latin": "Inter",
+    "chinese": [
+      "Noto Sans SC",
+      "Microsoft YaHei",
+      "sans-serif"
+    ],
+    "serif": "Georgia"
+  },
+  "type": {
+    "meta": 11,
+    "body": 14,
+    "item": 18,
+    "section": 34,
+    "project": 66,
+    "display": 96
+  },
+  "motion": {
+    "imageScale": 1.02,
+    "arrowX": 3,
+    "disciplineX": 8,
+    "reducedMotion": true
+  }
+}
